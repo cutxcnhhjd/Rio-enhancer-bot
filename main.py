@@ -11,3 +11,6 @@ def start(client, message):
     message.reply("Hey! I'm alive and ready to enhance your videos. 🚀")
 
 app.run()
+
+
+
